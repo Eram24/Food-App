@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "name": "food-app",
+  "version": "1.0.0",
+  "description": "food item app",
+  "main": "app.js",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build":"parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eram24/Food-App.git"
+  },
+  "author": "Eram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eram24/Food-App/issues"
+  },
+  "homepage": "https://github.com/Eram24/Food-App#readme",
+  "browsersList":"Last 2 versions"
+}
